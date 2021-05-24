@@ -1,0 +1,13 @@
+<br />
+<b>Warning</b>:  mysqli::__construct(): (HY000/1040): Excesso de conex�es in <b>/home/oraculos/www/getwpspam.php</b> on line <b>7</b><br />
+<br />
+<b>Warning</b>:  mysqli::prepare(): Couldn't fetch mysqli in <b>/home/oraculos/www/getwpspam.php</b> on line <b>21</b><br />
+<br />
+<b>Warning</b>:  main(): Couldn't fetch mysqli in <b>/home/oraculos/www/getwpspam.php</b> on line <b>21</b><br />
+<br />
+<b>Warning</b>:  main(): Couldn't fetch mysqli in <b>/home/oraculos/www/getwpspam.php</b> on line <b>21</b><br />
+Prepare failed: () <br />
+<b>Fatal error</b>:  Uncaught Error: Call to a member function bind_param() on bool in /home/oraculos/www/getwpspam.php:23
+Stack trace:
+#0 {main}
+  thrown in <b>/home/oraculos/www/getwpspam.php</b> on line <b>23</b><br />
