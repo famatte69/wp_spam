@@ -1,0 +1,9 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="https://oraculos.com.br/getwpspam.php?k=2023-05-08&amp;w=ip">here</a>.</p>
+<hr>
+<address>Apache/2.4.41 (Ubuntu) Server at oraculos.com.br Port 80</address>
+</body></html>
